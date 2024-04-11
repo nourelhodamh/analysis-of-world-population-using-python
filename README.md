@@ -45,8 +45,3 @@ This project aims to analyze various factors related to the world population usi
 - Pandas
 - Matplotlib
 - Seaborn (optional, for enhanced visualization)
-
-## Contributors
-
-- Nour Hassan (@nourelhodamh)
-
